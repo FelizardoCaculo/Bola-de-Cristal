@@ -1,3 +1,6 @@
+alert(`Olá seja bem vindo a Bola de cristal que vai revelar seu destino\n
+Para fazer novas perguntas actualize a janela do navegador.`)
+
 const respostas = [
     "Certeza!",
     "Não tenho tanta certeza.",
